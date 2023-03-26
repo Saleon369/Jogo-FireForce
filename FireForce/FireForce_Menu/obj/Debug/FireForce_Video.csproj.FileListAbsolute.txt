@@ -1,0 +1,64 @@
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe.config
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.ResolveComReference.cache
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 17NOV22 - Copia\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.frm_Videos.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe.config
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.ResolveComReference.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.frm_Videos.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe.config
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.ResolveComReference.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.frm_Videos.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.pdb
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe.config
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.exe
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\FireForce_Menu.pdb
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\Interop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\bin\Debug\AxInterop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.AssemblyReference.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.SuggestedBindingRedirects.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\Interop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\AxInterop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.ResolveComReference.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.frm_Videos.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.Properties.Resources.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.GenerateResource.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Video.csproj.CoreCompileInputs.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.exe
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce_Menu\obj\Debug\FireForce_Menu.pdb

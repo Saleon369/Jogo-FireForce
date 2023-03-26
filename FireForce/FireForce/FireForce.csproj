@@ -1,0 +1,122 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\FireForceIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\FireForceIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FireForce_Menu\FireForce_Video.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="frm_Questao10_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao10_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao09_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao09_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao09.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao08_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao08_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao07_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao07_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao06_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao06_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao05_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao05_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao04_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao04_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao03_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao03_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao02_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao02_RespostaCorreta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Questao01_RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

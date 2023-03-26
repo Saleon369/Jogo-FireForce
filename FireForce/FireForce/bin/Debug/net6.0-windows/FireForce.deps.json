@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FireForce/1.0.0": {
+        "dependencies": {
+          "FireForce_Video": "1.0.0"
+        },
+        "runtime": {
+          "FireForce.dll": {}
+        }
+      },
+      "FireForce_Video/1.0.0": {
+        "runtime": {
+          "FireForce_Menu.exe": {}
+        }
+      },
+      "AxInterop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "AxInterop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "Interop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FireForce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FireForce_Video/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AxInterop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

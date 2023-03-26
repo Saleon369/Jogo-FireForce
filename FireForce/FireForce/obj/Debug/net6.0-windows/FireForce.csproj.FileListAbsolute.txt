@@ -1,0 +1,701 @@
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Documents\USC\2022-1\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\COBOM\Documents\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\COBOM\Documents\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\COBOM\Documents\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\COBOM\Documents\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Documents\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\COBOM\Documents\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 05OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Documents\Projeto_Jogo_FireForce\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 20OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 25OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+D:\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\JOGO\Versao 31OUT22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\Ryzen\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\COBOM\Desktop\Versao 06NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\TesteVideo1.exe
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\TesteVideo1.pdb
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\TesteVideo1.exe.config
+C:\Users\COBOM\Desktop\Versao 10NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CopyComplete
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Desktop\Versao 12NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\COBOM\Desktop\Versao 13NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.btn_voltar.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias2.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Desktop\Versao 14NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Menu.resources
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe.config
+C:\Users\Home\Desktop\Versao 16NOV22\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CopyComplete
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.pdb
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe.config
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Menu.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CopyComplete
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+C:\Users\Home\Desktop\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.exe
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.deps.json
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.runtimeconfig.json
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce.pdb
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.pdb
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\bin\Debug\net6.0-windows\FireForce_Menu.exe.config
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.AssemblyReference.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frmTelaLoading.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Menu.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao01_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao02_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao03_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao04_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao05_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao06_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao07_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao08_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao09_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaCorreta.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_Questao10_RespostaErrada.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaFinal.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaInicial.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaReferencias.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.frm_TelaSobre.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.Properties.Resources.resources
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.GenerateResource.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfoInputs.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.AssemblyInfo.cs
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CoreCompileInputs.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.csproj.CopyComplete
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\refint\FireForce.dll
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.pdb
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\FireForce.genruntimeconfig.cache
+E:\FACULDADE\JOGO VERSOES\VersaoFinal ( Modificado apos apresentacao )\Versao 18NOV22\CodigoFonte\FireForce\FireForce\obj\Debug\net6.0-windows\ref\FireForce.dll

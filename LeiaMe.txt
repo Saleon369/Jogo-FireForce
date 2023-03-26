@@ -1,0 +1,4 @@
+Instruções para o professor:
+
+Para que o código rode sem problemas, tem que instalar a extensão " Microsoft Visual Studio Installer Projects 2022 ".
+Instalar as Fontes que estão nesta pasta ( há formulários que necessitam dessas fontes para que possam rodar sem problemas ).

@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "FireForce_Video/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FireForce_Video.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FireForce_Video.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FireForce_Video/1.0.0": {
+      "type": "project",
+      "path": "../FireForce_Menu/FireForce_Video.csproj",
+      "msbuildProject": "../FireForce_Menu/FireForce_Video.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "FireForce_Video >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Home\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\FACULDADE\\JOGO VERSOES\\VersaoFinal ( Modificado apos apresentacao )\\Versao 18NOV22\\CodigoFonte\\FireForce\\FireForce\\FireForce.csproj",
+      "projectName": "FireForce",
+      "projectPath": "E:\\FACULDADE\\JOGO VERSOES\\VersaoFinal ( Modificado apos apresentacao )\\Versao 18NOV22\\CodigoFonte\\FireForce\\FireForce\\FireForce.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "E:\\FACULDADE\\JOGO VERSOES\\VersaoFinal ( Modificado apos apresentacao )\\Versao 18NOV22\\CodigoFonte\\FireForce\\FireForce\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\FACULDADE\\JOGO VERSOES\\VersaoFinal ( Modificado apos apresentacao )\\Versao 18NOV22\\CodigoFonte\\FireForce\\FireForce_Menu\\FireForce_Video.csproj": {
+              "projectPath": "E:\\FACULDADE\\JOGO VERSOES\\VersaoFinal ( Modificado apos apresentacao )\\Versao 18NOV22\\CodigoFonte\\FireForce\\FireForce_Menu\\FireForce_Video.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

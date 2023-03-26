@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_referencias_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_referencias_high.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img_loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_loading.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sobre_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sobre_high.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sobre_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sobre_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sair_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sair_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_referencias_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_referencias_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_jogar_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_jogar_high.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sair_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sair_high.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_jogar_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_jogar_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_voltar_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_voltar_high.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_voltar_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_voltar_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo_direito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\fundo_direito.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo_esquerdo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\fundo_esquerdo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pnl_fundo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pnl_fundo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="referencias_titulo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\referencias_titulo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnVoltar_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnVoltar_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnVoltar_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnVoltar_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto01_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto01_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto01_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto01_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto01_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto01_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado01_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado01_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado01_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado01_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado01_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado01_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto01_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto01_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto01_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto01_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto01_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto01_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo01_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo01_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo01_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo01_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo01_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo01_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_corrigir_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_corrigir_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_corrigir_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_corrigir_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gif_Loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gif_Loading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_Resposta_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_Resposta_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_Resposta_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_Resposta_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_VoltaDica_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_VoltaDica_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_VoltaDica_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_VoltaDica_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fundo_Perguntas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fundo_Perguntas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnProximo_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnProximo_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnProximo_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnProximo_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo02_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo02_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo02_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo02_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo02_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo02_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto02_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto02_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto02_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto02_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto02_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto02_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado02_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado02_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado02_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado02_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado02_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado02_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto02_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto02_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto02_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto02_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto02_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto02_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnProximo_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnProximo_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_btnVoltar_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_btnVoltar_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Cinco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Cinco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Dois" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Dois.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Full" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Full.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Quatro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Quatro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Tres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Tres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Um" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Um.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vida_Zero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vida_Zero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo03_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo03_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo03_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo03_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto03_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto03_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto03_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto03_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto03_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto03_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado03_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado03_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado03_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado03_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado03_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado03_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto03_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto03_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto03_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto03_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto03_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto03_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imgPgta9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imgPgta9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo04_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo04_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo04_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo04_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo04_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo04_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo05_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo05_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo05_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo05_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo05_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo05_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo06_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo06_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo06_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo06_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo06_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo06_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo07_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo07_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo07_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo07_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo08_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo08_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo08_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo08_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo09_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo09_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo09_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo09_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo09_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo09_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo10_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo10_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo10_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo10_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto04_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto04_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto04_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto04_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto04_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto04_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto05_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto05_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto05_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto05_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto06_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto06_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto06_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto06_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto06_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto06_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto07_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto07_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto07_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto07_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto08_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto08_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto08_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto08_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto09_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto09_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto09_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto09_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto09_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto09_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto10_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto10_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto10_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto10_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado04_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado04_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado04_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado04_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado04_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado04_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado05_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado05_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado05_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado05_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado05_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado05_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado06_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado06_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado06_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado06_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado06_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado06_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado07_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado07_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado07_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado07_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado08_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado08_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado08_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado08_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado09_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado09_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado09_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado09_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado09_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado09_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado10_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado10_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado10_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado10_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo07_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo07_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo08_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo08_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo10_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo10_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto05_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto05_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto07_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto07_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto08_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto08_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_correto10_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_correto10_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado07_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado07_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado08_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado08_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_errado10_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_errado10_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto05_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto05_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto08_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto08_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto10_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto10_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao01_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao01_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao01_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao01_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao01_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao01_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao02_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao02_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao02_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao02_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao02_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao02_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao03_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao03_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao03_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao03_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao03_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao03_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao04_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao04_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao04_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao04_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao04_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao04_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao05_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao05_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao05_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao05_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao05_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao05_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao06_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao06_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao06_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao06_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao06_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao06_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao07_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao07_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao07_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao07_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao07_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao07_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao08_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao08_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao08_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao08_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao08_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao08_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao09_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao09_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao09_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao09_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao09_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao09_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao10_Errado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao10_Errado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao10_ErradoCorrecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao10_ErradoCorrecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Questao10_Parabens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiz_Questao10_Parabens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_nao_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_nao_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_nao_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_nao_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_nao_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_nao_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sim_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sim_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sim_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sim_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_sim_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_sim_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JogardeNovo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JogardeNovo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mascote_GameOver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mascote_GameOver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mascote_ParabensC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mascote_ParabensC.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mascote_ParabensE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mascote_ParabensE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GameOver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GameOver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ParabensC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ParabensC.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ParabensE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ParabensE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sobre_fundo_direito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sobre_fundo_direito.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sobre_fundo_esquerdo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sobre_fundo_esquerdo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_absurdo03_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_absurdo03_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto04_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto04_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto04_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto04_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto04_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto04_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto05_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto05_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto05_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto05_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto06_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto06_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto06_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto06_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto06_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto06_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto07_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto07_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto07_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto07_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto07_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto07_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto08_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto08_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto08_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto08_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto09_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto09_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto09_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto09_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto09_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto09_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto10_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto10_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quasecorreto10_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quasecorreto10_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FireForceIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FireForceIcon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_labirinto_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_labirinto_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_labirinto_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_labirinto_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_labirinto_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_labirinto_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quiz_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quiz_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quiz_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quiz_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_quiz_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_quiz_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_videos_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_videos_click.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_videos_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_videos_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_videos_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_videos_normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

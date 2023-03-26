@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CD4D684-B7E0-4A00-8BE7-068A84F6048F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FireForce_Menu</RootNamespace>
+    <AssemblyName>FireForce_Menu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>FireForceIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Videos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Videos.Designer.cs">
+      <DependentUpon>frm_Videos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_Videos.resx">
+      <DependentUpon>frm_Videos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vídeo %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video4_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video5_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video5_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video6_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video6_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video7_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video7_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video8_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video8_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titulo_Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video1_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video1_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video2_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video2_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video3_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video3_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video4_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video1_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video2_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video3_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video7_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Video6_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video5_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video4_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_video8_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_sair_high.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_sair_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FireForceIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
